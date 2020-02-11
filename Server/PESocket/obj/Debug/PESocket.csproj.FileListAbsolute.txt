@@ -1,0 +1,5 @@
+F:\Darkgod\UnityProjects\UnityClient\Assets\PESocket.dll
+F:\Darkgod\UnityProjects\UnityClient\Assets\PESocket.pdb
+F:\Darkgod\Server\PESocket\obj\Debug\PESocket.csproj.CoreCompileInputs.cache
+F:\Darkgod\Server\PESocket\obj\Debug\PESocket.dll
+F:\Darkgod\Server\PESocket\obj\Debug\PESocket.pdb
